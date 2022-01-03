@@ -1,0 +1,7 @@
+{
+  "name": "reciclia-app-tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
